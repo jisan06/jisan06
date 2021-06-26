@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 
   - jisanahmed06@gmail.com
-  - <a href="https://www.facebook.com/">Facebook</a>
+  - <a target="_blank" href="https://www.facebook.com/">Facebook</a>
 
 <!---
 jisan06/jisan06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
