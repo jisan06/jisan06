@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @jisan06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jisan Ahmed
+- 👀 I’m interested in programming and always learning new technologies 
+- 🌱 I’m currently learning Python, MongoDB, AWS
+- 💞️ I’m currently working with Laravel Framework
+- 📫 How to reach me:
+
+  jisanahmed06@gmail.com
 
 <!---
 jisan06/jisan06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
