@@ -4,7 +4,8 @@
 - 💞️ I’m currently working with Laravel Framework
 - 📫 How to reach me:
 
-  jisanahmed06@gmail.com
+  - jisanahmed06@gmail.com
+  - Facebook(https://www.facebook.com/)
 
 <!---
 jisan06/jisan06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
