@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jisan Ahmed
 - 👀 I’m interested in programming and always learning new technologies 
-- 🌱 I’m currently learning Python, MongoDB, AWS
+- 🌱 I’m currently learning Django, AWS, Docker
 - 💞️ I’m currently working with Laravel Framework
 - 📫 How to reach me:
 
