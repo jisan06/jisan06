@@ -38,7 +38,7 @@
   </a>
 </p>
 
-📧 For Business Inquiries
+<h2 class="heading-element" dir="auto">📧 For Business Inquiries</h2>
 ✅ ► jisanahmed06@gmail.com
 
 ---
