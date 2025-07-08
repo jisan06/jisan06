@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jisan Ahmed
+- 👋 Hi, I’m Jesan Ahmad
 - 👀 I’m interested in programming and always learning new technologies 
-- 🌱 I’m currently learning Nodejs, MongoDB, Docker
-- 💞️ I’m experienced with PHP, Laravel, Codeigniter, CakePHP, WordPress, React.js, Vue.js, MySQL, API
+- 🌱 I’m currently learning AWS, kubernetes
+- 💞️ I’m experienced with PHP, Laravel, Codeigniter, CakePHP, Node.js, WordPress, React.js, Vue.js, MySQL, API, Docker, CI/CD
 - 📫 How to reach me:
 
   - jisanahmed06@gmail.com
