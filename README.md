@@ -25,21 +25,21 @@
 
 ---
 
-📫 **Let’s Connect**
-
-- ✉️ Email: [jisanahmed06@gmail.com](mailto:jisanahmed06@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jesanahmad)
-- 💬 Microsoft Team: jisanahmed06@gmail.com
-- 📘 [Facebook](https://www.facebook.com/jesan.ahmad)
-
----
-
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesanahmad&show_icons=true&theme=github_dark" alt="jesanahmad" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesanahmad&layout=compact&theme=github_dark" alt="top-langs" />
+☕ Connect with Me!
+<p> 
+  <a href="https://web.facebook.com/jisan.ahmed.445093" target="_blank"> 
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /> 
+  </a> 
+  <a href="https://www.linkedin.com/in/jesan-ahmad-035084373/" target="_blank"> 
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a> 
+  <a href="https://www.upwork.com/freelancers/~01dac442e9f072221a" target="_blank">
+    <img alt="Upwork" src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
 </p>
+
+📧 For Business Inquiries
+✅ ► jisanahmed06@gmail.com
 
 ---
 
